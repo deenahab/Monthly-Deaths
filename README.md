@@ -6,7 +6,7 @@ This data repository can be used to understand mortality rates and anazlying the
 ## Contents
 This data repository contains:
 
--The original raw dataset .csv file which contains all the numerical data on monthly deaths. Located in the "Data" folder.
+-The original raw dataset .csv file which contains all the numerical data on monthly deaths. Located in the "Data" folder. Here is a direct link to the dataset here: [monthly_deaths](https://data.cdc.gov/api/views/bxq8-mugm/rows.csv?accessType=DOWNLOAD)
 
 -A python notebook outlining step by step instructions on how to filter and merge the data into an another subset. Known as an ipynb file. 
 
