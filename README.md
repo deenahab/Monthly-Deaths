@@ -10,9 +10,9 @@ This data repository contains:
 
 -A python notebook outlining step by step instructions on how to filter and merge the data into an another subset. Known as an ipynb file. 
 
--The merged and filtered new subset data .csv file. Located in the "Data" folder.
+-The merged and filtered new subset data .csv file. Located in the "Data" folder. Also includes an image for this subset in the data visualization folder. 
 ## Data Visualization
 For this data visualization, the subset used was created using the instructions from the python notebook. This data visualization was created by using the website, Datawrapper.
 ![Alt text](https://github.com/deenahab/Monthly-Deaths/blob/main/Data%20Visualization/2SXZq-direct-comparison-of-column-numbers.png)
-This data visualization shows a direct comparison of the number of "All Cause" and "Natural Cause" deaths. This graph shows how the majority of deaths are from Natural causes, rather than unnatural causes. This graph also shows how the cause column with the largest number for unnatural deaths, "Accidents (Unintentional Incidents)" is significantly less than the cause column with the largest number for natural deaths, "Diseases of Heart". 
+This data visualization shows a direct comparison of the number of "All Cause" and "Natural Cause" deaths. This graph shows how the majority of deaths are from natural causes, rather than unnatural causes. This graph also shows how the cause column with the largest number for unnatural deaths, "Accidents (Unintentional Incidents)" is significantly less than the cause column with the largest number for natural deaths, "Diseases of Heart". 
 
