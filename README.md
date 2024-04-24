@@ -6,11 +6,11 @@ This data repository can be used to understand mortality rates and anazlying the
 ## Contents
 This data repository contains:
 
--The original raw dataset .csv file which contains all the numerical data on monthly deaths.
+-The original raw dataset .csv file which contains all the numerical data on monthly deaths. Located in the "Data" folder.
 
--A python notebook outlining step by step instructions on how to filter and merge the data into an another subset.
+-A python notebook outlining step by step instructions on how to filter and merge the data into an another subset. Known as an ipynb file. 
 
--The merged and filtered new subset data .csv file.
+-The merged and filtered new subset data .csv file. Located in the "Data" folder.
 ## Data Visualization
 For this data visualization, the subset used was created using the instructions from the python notebook. This data visualization was created by using the website, Datawrapper.
 ![Alt text](https://github.com/deenahab/Monthly-Deaths/blob/main/Data%20Visualization/2SXZq-direct-comparison-of-column-numbers.png)
