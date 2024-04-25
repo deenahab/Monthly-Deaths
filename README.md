@@ -1,8 +1,13 @@
 # Monthly Counts of Death By Select Causes 
-## About
-This monthly death count dataset provides a record of the number of deaths that occurred for every month from 2014 to 2019. This data set includes a numerical record for various causes of death and a total for the "All Cause" and  "Natural Cause" columns. This repository compares these columns for all months in the years 2014 and 2019. This data repository also compares the column with the greatest number of deaths by a natural cause, "Diseases of Heart" with the column with the greatest number of deaths by an unnatural cause, "Accidents (Unintentional Injuries)."
+#### This repository was created for Professor Gotzler's English 105 course in the Spring of 2024, at the University of North Carolina at Chapel Hill.
+
+
+This dataset provides a numerical record of deaths that occurred for every month from 2014 to 2019. This data set includes a record for "All Cause", "Natural Cause", and other cause columns. This data repository compares the number of deaths for "All Cause", "Natural Cause", "Diseases of Heart",and "Accidents (Unintentional Injuries) for the years 2014 and 2019. "Diseases of Heart" and "Accidents (Unintentional Injuries) have the largest number of deaths for natural and unnatural causes of death. 
+
 ## Possible Usage
-This data repository can be used to understand mortality rates and anazlying the types of causes of death overtime. This repository analyzes data over a five year period, which can be used to analyze the number of deaths over time spans. 
+-This data repository can be used to understand mortality rates and anazlying the types of causes of death overtime. This repository analyzes data over a five year period, which can be used to analyze the number of deaths over time spans.
+
+-Possibly could allow for research on specific causes of death, and allocate for preventative measures. 
 ## Contents
 This data repository contains:
 
