@@ -2,7 +2,7 @@
 #### This repository was created for Professor Gotzler's English 105 course in the Spring of 2024, at the University of North Carolina at Chapel Hill.
 
 ## About
--This dataset provides a numerical record of deaths that occurred for every month from 2014 to 2019. This data set includes a record for "All Cause", "Natural Cause", and other cause columns. This data repository compares the number of deaths for "All Cause", "Natural Cause", "Diseases of Heart",and "Accidents (Unintentional Injuries) for the years 2014 and 2019. "Diseases of Heart" and "Accidents (Unintentional Injuries) have the largest number of deaths for natural and unnatural causes of death. 
+-This dataset provides a numerical record of deaths that occurred for every month from 2014 to 2019. This data repository compares the number of deaths for "All Cause", "Natural Cause", "Diseases of Heart",and "Accidents (Unintentional Injuries) for the years 2014 and 2019. "Diseases of Heart" and "Accidents (Unintentional Injuries) have the largest number of deaths for natural and unnatural causes of death. 
 
 -This notebook is intented for users who have a very basic level of knowledge on how to use python and coding.
 
