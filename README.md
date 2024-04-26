@@ -21,7 +21,7 @@ This data repository contains:
 
 -Also includes an image for this subset in the "Data Visualization" folder. 
 ## Data Visualization
-For this data visualization, the subset used was created using the instructions from the python notebook. This data visualization was created by using the website, [Datawrapper](https://www.datawrapper.de). 
+For this data visualization, the subset used was created using the instructions from the python notebook. This data visualization was created using the website, [Datawrapper](https://www.datawrapper.de). 
 
 -This data visualization shows a direct comparison of the number of "All Cause" and "Natural Cause" deaths. 
 
