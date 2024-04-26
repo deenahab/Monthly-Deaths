@@ -13,11 +13,11 @@
 ## Contents
 This data repository contains:
 
--The dataset was found from [data.cdc.gov](https://data.cdc.gov/NCHS/Monthly-Counts-of-Deaths-by-Select-Causes-2014-201/bxq8-mugm/data_preview). Here is a direct link to the csv. file: [monthly_deaths](https://data.cdc.gov/api/views/bxq8-mugm/rows.csv?accessType=DOWNLOAD). Also located in the "Data" folder.
+-The dataset was found from [data.cdc.gov](https://data.cdc.gov/NCHS/Monthly-Counts-of-Deaths-by-Select-Causes-2014-201/bxq8-mugm/data_preview). Here is a direct link to the .csv file: [monthly_deaths](https://data.cdc.gov/api/views/bxq8-mugm/rows.csv?accessType=DOWNLOAD). Also located in the "Data" folder.
 
 -A python notebook outlining step by step instructions on how to filter and merge the data into an another subset. Known as an ipynb file. 
 
--The merged and filtered new subset data .csv file. Located in the "Data" folder. 
+-The manipulated subset data .csv file. Located in the "Data" folder. 
 
 -Also includes an image for this subset in the "Data Visualization" folder. 
 ## Data Visualization
